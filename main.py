@@ -8,7 +8,7 @@ so every run produces byte-identical output.
 
 import os
 
-ENTRY = "Sorry I printed your breakup text to the whole office. In colour. Twice."
+ENTRY = "Sorry I printed your breakup text to the whole office. In colour. Twice. HR kept a copy."
 
 
 def main() -> None:
